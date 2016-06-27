@@ -1,0 +1,16 @@
+{
+    "name": "mustafah15/hasher",
+    "description": "demo package to create message hashing",
+    "license": "Mit",
+    "authors": [
+        {
+            "name": "Mustafa Hussain",
+            "email": "mustafa.hussain93@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=5.3.3",
+        "phpseclib/phpseclib":"*"
+    }
+}
